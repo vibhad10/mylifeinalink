@@ -4,7 +4,7 @@
 
 <p align="right">
   <kbd>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/jZY268n/spongebob-computer.gif" alt="spongebob-computer" border="0" /></a> 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jkKqkKR/matrix.gif" alt="matrix" border="0" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/jZY268n/spongebob-computer.gif" alt="spongebob-computer" border="0" /></a> 
   </kbd>
 </p>
