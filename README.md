@@ -11,14 +11,12 @@
 
 
 ## Table of Contents
-- [About Me](#sections)
-- [Current Projects](#getting-started)
-- [Past Projects](#how-to-use)
-- [Linking portfolio to GitHub](#linking-portfolio-to-github)
-- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
-- [Other Stuff](#change-and-customize-every-section-according-to-your-need)
-- [My Skills](#deployment)
-- [Places I Have Worked](#technologies-used)
+- [About Me](#about-me)
+- [Current Projects](#current-projects)
+- [Past Projects](#past-projects)
+- [Other Stuff](#other-stuff)
+- [My Skills](#my-skills)
+- [Places I Have Worked](#places-i-have-worked)
 
 ## About Me
 ✔️ Summary and About me\
