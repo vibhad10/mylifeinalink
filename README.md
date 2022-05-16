@@ -2,7 +2,7 @@
 
 ## Welcome to my world:
 
-<p align="center">
+<p align="left">
   <kbd>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/jkKqkKR/matrix.gif" alt="matrix" border="0" /></a>  </kbd>
 </p>
