@@ -1,1 +1,112 @@
+# Hello World, it's Vibha! ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+
+## Welcome to my world:
+
+
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif"></img>
+  </kbd>
+</p>
+
+
+## Table of Contents
+- [About Me](#sections)
+- [Current Projects](#getting-started)
+- [Past Projects](#how-to-use)
+- [Linking portfolio to GitHub](#linking-portfolio-to-github)
+- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
+- [Other Stuff](#change-and-customize-every-section-according-to-your-need)
+- [My Skills](#deployment)
+- [Places I Have Worked](#technologies-used)
+
+## About Me
+✔️ Summary and About me\
+✔️ Skills\
+✔️ Education\
+✔️ Work Experience\
+✔️ Open Source Projects Connected with GitHub\
+✔️ Big Projects\
+✔️ Achievements And Certifications 🏆\
+✔️ Blogs\
+✔️ Talks\
+✔️ Podcast\
+✔️ Contact me\
+✔️ Twitter Timeline\
+✔️ GitHub Profile
+
+## Current Projects
+
+Here are some of my current projects:
+
+```
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+```
+## Past Projects
+
+```
+1) BUILD IMAGE : docker build -t developerfolio:latest .
+2) RUN IMAGE: docker run -t -p 3000:3000 developerfolio:latest
+```
+
+## Other stuff
+
+#### Personalize page content in `/src/portfolio.js` & modify it as per your need. You will also need to modify `index.html` to change the title and metadata to provide accurate SEO for your personal portfolio.
+
+```javascript
+/* Change this file to get your Personal Porfolio */
+
+const greeting = {
+  /* Your Summary And Greeting Section */
+  title: "Hi all I'm Saad",
+  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
+  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+};
+
+const socialMediaLinks = {
+  /* Your Social Media Link */
+  github: "https://github.com/saadpasta",
+  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  gmail: "saadpasta70@gmail.com",
+  gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/saad.pasta7"
+};
+
+
+const skillsSection = { .... }
+
+const techStack = { .... }
+
+const workExperience = { .... }
+
+const openSource = { .... }
+
+const bigProjects = { .... }
+
+const achievementSection = { .... }
+
+const blogSection = { .... }
+
+const contactInfo = { .... }
+
+const twitterDetails = { ... }
+
+```
+
+## My Skills
+When you are done with the setup, you should host your website online.
+We highly recommend to read through the [Deploying on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) docs for React.
+
+
+## Places I Have Worked 
+
+- [React](https://reactjs.org/)
+- [graphql](https://graphql.org/)
+- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
+- [react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
+- [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
+- [react-headroom](https://github.com/KyleAMathews/react-headroom)
+- [color-thief](https://github.com/lokesh/color-thief)
 
