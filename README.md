@@ -70,12 +70,12 @@ To the UI/UX and Graphic Design Community:
   Check out my artwork! [Graphic Design Portfolio](https://vibhad10.wixsite.com/vibhagraphics)
 
 ## My Skills 📊
-✅ Java
-✅ Python
-✅ Swift
-✅ AWS
-✅ JavaScript
-✅ HTML
+✅ Java\
+✅ Python\
+✅ Swift\
+✅ AWS\
+✅ JavaScript\
+✅ HTML\
 ✅ CSS
 
 ## Places I Have Worked ✈️ 🏙
